@@ -41,9 +41,11 @@ git clone https://github.com/AlexandreSajus/JARVIS.git
 ```
 
 2. Install the requirements
+
+```bash
 #for Mac
 brew install portaudio
-
+```
 ```bash
 pip install -r requirements.txt
 ```
